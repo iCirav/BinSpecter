@@ -3,6 +3,18 @@
 
 BinSpecter is an advanced hex editor extension for Visual Studio Code. It allows you to inspect and edit files in hexadecimal format directly within your editor, making it ideal for reverse engineering, binary patching, or analyzing large binary files.
 
+![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/iCirav.BinSpecter?style=flat-square)
+![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/iCirav.BinSpecter?style=flat-square)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/iCirav/BinSpecter?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/iCirav/BinSpecter?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/iCirav/BinSpecter?style=flat-square)
+![GitHub Issues](https://img.shields.io/github/issues/iCirav/BinSpecter?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/iCirav/BinSpecter?style=flat-square)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/iCirav/BinSpecter?style=flat-square)
+![Code Quality](https://img.shields.io/lgtm/grade/javascript/g/iCirav/BinSpecter?style=flat-square)
+
+---
+
 ## Features
 
 - View and edit files in hexadecimal format
