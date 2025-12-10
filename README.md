@@ -1,6 +1,6 @@
 # BinSpecter
 
-![BinSpecter Logo](/assets/images/BinSpecter.png)
+![BinSpecter Logo](/assets/images/logo.png)
 BinSpecter is an advanced hex editor extension for Visual Studio Code, designed to let developers inspect and edit binary files directly inside the editor.
 
 ## Features
